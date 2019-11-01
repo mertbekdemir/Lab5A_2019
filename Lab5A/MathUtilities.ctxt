@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=MathUtilities
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ MathUtilities\ here.\r\n\r\n\ @author\ Mert\r\n\ @version\ Bekdemir\r\n
+comment1.params=base\ exponent
+comment1.target=int\ power(int,\ int)
+comment1.text=\r\n\ Method\ power\r\n\ @param\ base\r\n\ @param\ exponent\r\n\ method\ will\ calculate\ and\ return\ the\ result\r\n\ of\ the\ first\ parameter\ raised\ to\ the\ power\ of\ the\ second\ parameter\r\n
+numComments=2
