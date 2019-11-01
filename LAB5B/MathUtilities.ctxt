@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=MathUtilities
+comment0.text=\r\n\ this\ class\ describes\ some\ math\ utilies\r\n\r\n\ @author\ Mert\r\n\ @version\ Bekdemir\r\n
+comment1.params=firstNumber\ operation\ secondNumber
+comment1.target=void\ calculator(double,\ char,\ double)
+comment1.text=\r\n\ method\ calculator\r\n\ @param\ firstNumber\r\n\ @param\ operation\r\n\ @param\ secondNumber\r\n\ allow\ user\ to\ add\ subtract\ multiply\ divide\ and\ mod\ two\ double\ numbers\r\n
+comment2.params=number
+comment2.target=double\ sumOddNumbers(int)
+comment2.text=\r\n\ method\ sumOddNumbers\r\n\ @param\ number\r\n\ display\ all\ \ the\ odd\ numbers\ from\ 0\ to\ a\ given\ positive\ number,\ also\ the\ method\ will\ \ add\ up\ all\ the\ odd\ numbers\ and\ display\ the\ result\ at\ the\ end\u0000\r\n
+comment3.params=number
+comment3.target=void\ displaySquareNumbers(int)
+comment3.text=\r\n\ method\ displaySquareNumbers\r\n\ @param\ number\r\n\ will\ display\ the\ square\ of\ all\ numbers\ from\ 0\ to\ the\ given\ number\ inclusive.\ \r\n
+comment4.params=number
+comment4.target=void\ getFactorial(int)
+comment4.text=\r\n\ method\ getFactrorial\r\n\ @param\ number\r\n\ \r\n
+numComments=5
